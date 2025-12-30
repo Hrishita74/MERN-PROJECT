@@ -23,6 +23,15 @@ storage using MongoDB.
 - Data stored persistently in MongoDB
 - Responsive UI using Bootstrap
 
----
+----
 
-## 📁 Project Structure
+## API Endpoints
+-POST /api/courses → Add course
+-GET /api/courses → Get all courses
+-PUT /api/courses/:id → Update course
+-DELETE /api/courses/:id → Delete course
+
+----
+
+##Author
+-HRISHITA THOPTE
